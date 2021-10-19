@@ -1,0 +1,31 @@
+body {
+    font-family: "Poppins", sans-serif;
+}
+
+.page-content {
+    margin-top: 100px;
+}
+
+footer {
+    border-top: 1px solid #e4e4e4;
+    margin-top: 100px;
+
+    h5 {
+        font-weight: normal;
+        font-size: 24px;
+        line-height: 36px;
+        color: #0c0d36;
+    }
+
+    p {
+        color: #979797;
+    }
+
+    .card-title {
+        color: #0c0d36;
+    }
+
+    .form-control {
+        background-color: #f3f3f3;
+    }
+}
